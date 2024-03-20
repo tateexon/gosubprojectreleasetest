@@ -9,5 +9,4 @@ import (
 func main() {
 	fmt.Println("Hello, World from subpackage!")
 	somesrc.SomeFunc()
-
 }
